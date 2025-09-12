@@ -4,7 +4,8 @@ import React from 'react'
 const App = () => {
 
   const hello =()=> {
-    return `Hiiii there`;
+    let data = 'Hello';
+    return data;
   }
 
   return (
