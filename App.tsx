@@ -11,6 +11,7 @@ const App = () => {
   return (
     <View>
       <Text>Hi there! created new APP :) {hello()}</Text>
+      <Text>"Lets DO it"</Text>
     </View>
   )
 }
